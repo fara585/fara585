@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">A junior Front-end developer from Tashkent.</h3>
+<h3 align="center">A junior Front-end developer from Tashkent. I started coding in 2023 because of my interest in programming. Nowadays, I am a student at the university in the faculty political science. I enjoy doing something new and learning. I am good at making animations for web sites.</h3>
 
 - 🌱 I’m currently learning **PHP, Typescript, Vue 3, Firebase, Gsap, Rest/API**
 
